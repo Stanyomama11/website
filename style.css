@@ -1,7 +1,27 @@
-
-h1 {
-
-}
 p {
-
+  color: red;
+  text-align: left;
+  font-family: 'SelenaRegular';
+}
+h1 {
+  color: tomato;
+  text-align: left;
+  font-family: 'SelenaRegular'; 
+}
+h2 {
+  color:hsla(9, 100%, 64%, 1);
+  text-align: left;
+  font-family: 'SelenaRegular'; 
+}
+body {
+  background-color: rgb(26,209,255);
+}
+a {
+  color: #FF6347;
+ 
+}
+button {
+  color:black;
+  background-color: tomato;
+  font-family: 'SelenaRegular';
 }
