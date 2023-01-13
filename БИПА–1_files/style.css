@@ -18,7 +18,7 @@ h2 {
   font-family: 'SelenaRegular'; 
 }
 body {
-  background-color: rgb(128, 255, 255);
+  background-color: rgb(26,209,255);
 }
 a {
   color: #FF6347;
@@ -30,9 +30,8 @@ button {
   font-family: 'SelenaRegular';
 }
 table, th, td {
-  border: 2px solid tomato;
-  border-collapse: collapse ;
- 
+  border: 1px solid black;
+  border-collapse: collapse;
   }
 img {
   background-color: lightgrey;
